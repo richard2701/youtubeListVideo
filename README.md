@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Se creea tabla en DynamoDb con index id tipo string para que tomar los id de youtube
+### Se creea tabla en DynamoDB con index id tipo string para que tomar los id de youtube
 ![My Image](./src/assets/screenDocument/dyno.png)
 
 ### Se crearon tres funciones en Lambda que se encargan de listar, agregar y eliminar
