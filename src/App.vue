@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="container mx-auto">
-      <div class="pt-4">
+      <div class="pt-10">
         <div class="flex items-center justify-center flex-col">
           <div class="flex flex-col">
             <h1 class="text-2xl font-medium mb-4">
