@@ -24,4 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-![My Image](./images/assets/logo.png)
+![My Image](./assets/images/logo.png)
