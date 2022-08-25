@@ -72,6 +72,7 @@ export default {
         this.errorMessage = "La url ingresado no es valida, ejem(https://www.youtube.com/watch?v=f02mOEt11OQ)"
         this.validation = true
       }else {
+        this.validation = false
         this.getVideo(ID)
       }
     },
